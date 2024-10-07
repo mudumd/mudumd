@@ -8,13 +8,16 @@ I'm Mudassir , a 2nd-year computer science student with a growing passion for co
 <br> 
 <b>Skills</b>
 •	Programming languages: c , python 
+  <br>
 •	Familiarity with: Linux
-•	Interests
-•	gaming, reading, 
+  <br>
+  <b>Interests</b>
+•	gaming, reading
 •	 machine learning, data analysis
 <br>
 <b>Contact</b>
 •	Email: mudassirmd1804@gmail.com
+  <br>
 •	LinkedIn: https://www.linkedin.com/in/mudassir-mohammed-06014b308/
 
 
