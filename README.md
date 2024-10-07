@@ -7,6 +7,7 @@ Computer Science Student | Enthusiast of web development and machine analysis ##
 I'm Mudassir , a 2nd-year computer science student with a growing passion for coding and innovation. I'm currently exploring various programming languages and technologies, and I'm excited to learn from others and contribute to open-source projects.
 <br> 
 <b>Skills</b>
+<br>
 •	Programming languages: c , python 
   <br>
 •	Familiarity with: Linux
