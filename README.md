@@ -13,10 +13,12 @@ I'm Mudassir , a 2nd-year computer science student with a growing passion for co
 •	Familiarity with: Linux
   <br>
   <b>Interests</b>
+  <br>
 •	gaming, reading
 •	 machine learning, data analysis
 <br>
 <b>Contact</b>
+<br>
 •	Email: mudassirmd1804@gmail.com
   <br>
 •	LinkedIn: https://www.linkedin.com/in/mudassir-mohammed-06014b308/
